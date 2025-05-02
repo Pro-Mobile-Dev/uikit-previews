@@ -1,9 +1,3 @@
-//
-//  AppDelegate.swift
-//  UIKitPreviews
-//
-//  Created by Mark Kazakov on 02/05/2025.
-//
 
 import UIKit
 
